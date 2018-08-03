@@ -4,7 +4,7 @@
 
 A basic linux script written for BASH for handling an address book.
 
-It can:
+It can do the following functions:
 - add a contact
 - edit an existing contact
 - delete an existing contact
