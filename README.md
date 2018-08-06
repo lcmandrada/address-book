@@ -2,7 +2,7 @@
 
 **Legacy Project**
 
-A basic linux script written for BASH for handling an address book.
+A basic Linux script written with BASH for handling an address book.
 
 It can do the following functions:
 - add a contact
